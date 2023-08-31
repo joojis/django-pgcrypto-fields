@@ -183,7 +183,7 @@ Supported PGP symmetric key fields are:
  - `DateTimePGPSymmetricKeyField`
  - `TimePGPSymmetricKeyField`
  - `IntegerPGPSymmetricKeyField`
- - `BigIntegerPGPSymerticKeyField`
+ - `BigIntegerPGPSymmerticKeyField`
  - `DecimalPGPSymmetricKeyField`
  - `FloatPGPSymmetricKeyField`
  - `BooleanPGPSymmetricKeyField`
